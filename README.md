@@ -26,11 +26,11 @@ This project, created with Streamlit, aims to compare different data processing 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/dkysuarez/Comparations_Python_Libraries
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repository
+   cd Comparations_Python_Libraries
    ```
 3. Install the dependencies:
    ```bash
